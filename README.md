@@ -10,9 +10,9 @@ Local Radio Positioning System
 
 ## Network 
 
-1.... N wireless router
-2.... Small PC linux server
-3.... PiA +Usb network every node
+* N wireless router
+* Small PC linux server
+* PiA +Usb network every node
 
 Controlled from web application. 
 
