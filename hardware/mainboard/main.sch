@@ -31,12 +31,13 @@ LIBS:valves
 LIBS:stm32
 LIBS:sensors
 LIBS:sensor
+LIBS:decaWave
 LIBS:main-cache
 EELAYER 25 0
 EELAYER END
 $Descr A4 11693 8268
 encoding utf-8
-Sheet 1 2
+Sheet 1 3
 Title ""
 Date ""
 Rev ""
@@ -62,5 +63,11 @@ S 750  700  1700 1750
 U 56C8F569
 F0 "IMU" 60
 F1 "imu.sch" 60
+$EndSheet
+$Sheet
+S 8950 850  1850 1750
+U 56C9A727
+F0 "DWM1000" 60
+F1 "dwm1000.sch" 60
 $EndSheet
 $EndSCHEMATC

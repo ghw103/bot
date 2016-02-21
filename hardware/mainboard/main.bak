@@ -30,6 +30,7 @@ LIBS:contrib
 LIBS:valves
 LIBS:stm32
 LIBS:sensors
+LIBS:sensor
 LIBS:main-cache
 EELAYER 25 0
 EELAYER END

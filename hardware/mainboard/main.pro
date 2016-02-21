@@ -1,4 +1,4 @@
-update=nie, 21 lut 2016, 01:24:38
+update=nie, 21 lut 2016, 13:13:17
 version=1
 last_client=kicad
 [pcbnew]
@@ -62,3 +62,4 @@ LibName30=stm32
 LibName31=sensors
 LibName32=mpu9150
 LibName33=sensor
+LibName34=library/DWM1000/decaWave
