@@ -32,6 +32,7 @@ LIBS:stm32
 LIBS:sensors
 LIBS:sensor
 LIBS:decaWave
+LIBS:MPU-9250
 LIBS:main-cache
 EELAYER 25 0
 EELAYER END

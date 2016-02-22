@@ -1,4 +1,4 @@
-update=nie, 21 lut 2016, 13:13:17
+update=pon, 22 lut 2016, 13:10:08
 version=1
 last_client=kicad
 [pcbnew]
@@ -60,6 +60,6 @@ LibName28=contrib
 LibName29=valves
 LibName30=stm32
 LibName31=sensors
-LibName32=mpu9150
-LibName33=sensor
-LibName34=library/DWM1000/decaWave
+LibName32=sensor
+LibName33=library/DWM1000/decaWave
+LibName34=library/MPU9250/MPU-9250
