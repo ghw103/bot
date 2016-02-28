@@ -17,20 +17,19 @@ Projekt zespołu balansujących robotów mobilnych. Zadaniem grupy robotów będ
 * Sterowniki DRV8825
 
 ### Elektronika
-* STM32 nucleo boart 
-* opcjonalnie raspberry PI 0
+* STM32 nucleo board
+* Raspberry PI 0
 * Transceiver DMW1000 (lokalizacja)
 * Moduł WiFi (komunikacja z siecią)
 * Diody WS2812B (sygnalizacja aktualnego stanu robota)
 
 ### Sensoryka
-* czujniki odległości SHARP (cyfrowe)
+* Czujniki odległości SHARP (cyfrowe)
 * IMU MPU6050
-* gniazdo do podłączenia innych czujników (w zależonści od wykorzystania)
+* Gniazda do podłączenia innych czujników (w zależonści od wykorzystania)
 
 ## Wykonanie
-Projekt zakłada stworzenie płyty głównej robota scalającej wszyskie moduły, umożliwiającej proste podłączenie wszystkich elementów.
-Oraz ramy wydrukowanej na drukarce 3D. Dodatkowo w skład zestawu wchodziły bedą moduły lokalizacji (do umieszczenia wewnątrz pomieszczenia jako punkty odniesienia przy lokalizacji). Do organizacji pracy zespołu robotów zostanie opracowane oprogramowanie w języku C++ zaimplementowane na komputerze pełniącym jednocześnie rolę routera WiFi z którym będą połączone wszystkie roboty. 
+Projekt zakłada stworzenie uniwersalnej płyty głównej robota scalającej wszyskie moduły, umożliwiającej proste podłączenie wszystkich elementów i ramy wydrukowanej na drukarce 3D. Dodatkowo w skład zestawu wchodziły bedą moduły lokalizacji (do umieszczenia wewnątrz pomieszczenia jako punkty odniesienia przy lokalizacji). Do organizacji pracy zespołu robotów zostanie opracowane oprogramowanie w języku C++ zaimplementowane na komputerze pełniącym jednocześnie rolę routera WiFi z którym będą połączone wszystkie roboty. 
 
 ### Zadania
 * Projekt CAD elementów mechanicznych 
