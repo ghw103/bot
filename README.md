@@ -18,7 +18,7 @@ Projekt zespołu balansujących robotów mobilnych. Zadaniem grupy robotów będ
 
 ### Elektronika
 * STM32 nucleo board
-* Raspberry PI 0
+* ARM v7< board
 * Transceiver DMW1000 (lokalizacja)
 * Moduł WiFi (komunikacja z siecią)
 * Diody WS2812B (sygnalizacja aktualnego stanu robota)
