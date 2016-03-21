@@ -1,6 +1,8 @@
 # bot
 Lab project
 
+![](/img/mrys.jpg)
+
 # Abstrakt
 Projekt zespołu balansujących robotów mobilnych. Zadaniem grupy robotów będzie poruszanie się w zamkniętej przestrzeni i współpraca przy przesuwaniu obiektów. 
 
@@ -47,5 +49,7 @@ Projekt zakłada stworzenie uniwersalnej płyty głównej robota scalającej wsz
 * Wykonanie elementów mechanicznych i druk 3D
 * Tworzenie "Landing page" projektu 
 * PR i znajdowanie zastosowań (pomysł gier na bazie projektu)
+
+![](/img/grupa.jpg)
 
 
